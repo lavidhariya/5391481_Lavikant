@@ -1,16 +1,26 @@
 git clone
 ---------------------------------------------
+git remote 
+-------------------------------------------
 git init
+
+git diff
 
 git add .
 
 git status
 
-git commit -m "<commit message>"
+git stash / git commit -m "<commit message>"
 
 git log
 
 git push
+
+git branch <branch name>
+
+git checkout <branch name>
+
+git diff branch1 branch2
 --------------------------------------------------
 main
     -Dev ->Dev testing
