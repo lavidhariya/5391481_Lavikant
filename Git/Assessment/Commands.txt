@@ -1,5 +1,5 @@
 git clone
-
+---------------------------------------------
 git init
 
 git add .
@@ -9,3 +9,15 @@ git status
 git commit -m "<commit message>"
 
 git log
+
+git push
+--------------------------------------------------
+main
+    -Dev ->Dev testing
+    |-FeatureBranching
+    - TaskBranch1 ->PR : Lead review ->Merge Dev
+    - TaskBranch2
+    - TaskBranch3
+    |
+
+     -QA -> QA testing
